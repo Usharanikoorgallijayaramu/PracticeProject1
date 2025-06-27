@@ -1,4 +1,4 @@
-Project for learning 
+Practice Project 1
 
 Restaurant Operations Analysis 
 
